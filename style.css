@@ -1,0 +1,15 @@
+iframe {
+  background-color: transparent;
+ 
+}
+
+@media (max-width: 568px) {
+  div {
+    font-size: 10px;
+  }
+
+  iframe {
+    background-color: transparent;
+   
+  }
+}
